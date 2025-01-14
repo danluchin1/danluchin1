@@ -1,16 +1,37 @@
-## Hi there 👋
+       .----------------.  
+      | .--------------. |  
+      | |   ________   | |  
+      | |  |   __   |  | |  
+      | |  |  |__|  |  | |     Hello, World!  
+      | |  |______ /   | |   I'm a 2nd Year IT Student!  
+      | |     ____     | |     Learning & Coding 🚀  
+      | |    |____|    | |  
+      | '--------------' |  
+       '----------------'   
+           //      \\    
+          ||        ||    
+       ==||========||==  
+          ||        ||    
+          ||        ||    
+          ||        ||    
+         /__\      /__\   
 
-<!--
-**danluchin1/danluchin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Dan Luchin!  
+🚀 I’m a passionate student who loves exploring Web development and Web Applications.  
+🌟 My goal is to become a Full Stack Developer.
 
-Here are some ideas to get you started:
+🌐 **Web Technologies:**  
+- `HTML`, `CSS`, `JavaScript`, `REST APIs`, `PostgreSQL`, `Hono`, `Eta Templates`, `Deno`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Backend Development:**  
+- `C#`, `.NET`, `Python`
+
+🧰 **Other tools**  
+- `Docker`, `Git`
+
+🛠️ **Soft skills**
+- `Teamwork`, `Responsibility`, `Adaptability`, `Time management`, `Collaboration`
+
+🌐 Connect with me:    
+- [LinkedIn](www.linkedin.com/in/dan-luchin-a658812bb)  
+- [Email](danluchin04@gmail.com)

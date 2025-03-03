@@ -1,21 +1,3 @@
-       .----------------.  
-      | .--------------. |  
-      | |   ________   | |  
-      | |  |   __   |  | |  
-      | |  |  |__|  |  | |     Hello, World!  
-      | |  |______ /   | |   I'm a 2nd Year IT Student!  
-      | |     ____     | |     Learning & Coding 🚀  
-      | |    |____|    | |  
-      | '--------------' |  
-       '----------------'   
-           //      \\    
-          ||        ||    
-       ==||========||==  
-          ||        ||    
-          ||        ||    
-          ||        ||    
-         /__\      /__\   
-
 👋 Hi, I’m Dan Luchin!  
 🚀 I’m a passionate student who loves exploring Web development and Web Applications.  
 🌟 My goal is to become a Full Stack Developer.
